@@ -89,5 +89,7 @@ A web-based task management application designed to organize tasks and simplify 
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, building and collaborating
-on interesting technology projects.
+I'm always interested in learning, building and collaborating on interesting technology projects.
+
+- 💼 [LinkedIn]((www.linkedin.com/in/prajay-ganiga-73987a331))
+- 🐙 [GitHub](https://github.com/prajayganiga-design)
