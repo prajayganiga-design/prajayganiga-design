@@ -77,15 +77,13 @@ A web-based task management application designed to organize tasks and simplify 
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
 - 🚀 Build production-ready full-stack applications
 - 🤖 Develop practical AI/ML projects
 - 🧠 Improve DSA and problem-solving skills
 - 💼 Gain industry experience
 - 🌐 Contribute to open-source projects
-
----
 
 ## 🤝 Let's Connect
 
