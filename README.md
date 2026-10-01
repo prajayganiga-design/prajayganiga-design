@@ -44,30 +44,27 @@ practical software solutions and exploring AI-powered applications.
 
 ## 🚀 Featured Projects
 
-### 🚇 MetroAI
-AI-powered metro operations and passenger assistance system
-focused on passenger demand prediction, station congestion
-and intelligent navigation.
+### 🚇 [MetroAI](https://github.com/prajayganiga-design/MetroAI)
+
+AI-powered metro operations and passenger assistance system focused on passenger demand prediction, station congestion analysis, and intelligent navigation.
 
 **Tech:** Python • Flask • React • JavaScript • Machine Learning
 
 ---
 
-### 📋 TaskFlowManager
-A web-based task management application designed to
-organize tasks and simplify workflow management.
+### 🎟️ [Event Management System](https://github.com/prajayganiga-design/Event-Management-System)
+
+Full-stack event management system for creating, managing, and registering for events with scheduling conflict detection.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • Express.js • SQLite
+
+---
+
+### 📋 [TaskFlowManager](https://github.com/prajayganiga-design/TaskFlowManager)
+
+A web-based task management application designed to organize tasks and simplify workflow management.
 
 **Tech:** JavaScript • HTML • CSS • Tailwind CSS
-
----
-
-### 🌐 Web Development Projects
-Collection of responsive web applications developed
-during my web development learning and internship journey.
-
-**Tech:** HTML • CSS • JavaScript • React
-
----
 
 ## 📚 Currently Learning
 
